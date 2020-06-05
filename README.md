@@ -3,4 +3,4 @@ A docker image to run joplin-cli
 
 
 
-``` docker run -t ugeek/joplin```
+``` docker run -it ugeek/joplin```
